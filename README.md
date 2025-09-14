@@ -1,3 +1,6 @@
-git init -b main
+
+
 git add .
-git commit -m "chore: init CDN with images, audio (LFS), and indices"
+git commit -m "new image index, new folder name station"
+git push -u origin main
+
